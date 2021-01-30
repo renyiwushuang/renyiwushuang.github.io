@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>renyiwushuang&#39;s Blog</title>
+    <title>仁义无双&#39;s Blog</title>
     <link>http://renyiwushuang.github.io/</link>
-    <description>Recent content on renyiwushuang&#39;s Blog</description>
+    <description>Recent content on 仁义无双&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Jan 2021 12:04:29 +0800</lastBuildDate><atom:link href="http://renyiwushuang.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,8 @@
       <pubDate>Sat, 30 Jan 2021 12:04:29 +0800</pubDate>
       
       <guid>http://renyiwushuang.github.io/post/test/</guid>
-      <description>看见了吗</description>
+      <description>看见了吗
+靠靠靠</description>
     </item>
     
   </channel>
